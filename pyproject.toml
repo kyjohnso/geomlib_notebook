@@ -1,0 +1,8 @@
+[project]
+name = "geomlib_notebook"
+version = "0.1.0"
+dependencies = [
+    "numpy",
+	"jupyterlab",
+	"pythreejs",
+]
